@@ -133,7 +133,7 @@ global styles
 */
 
 .typing-demo {
-  width: 25vw;
+  width:500px;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
